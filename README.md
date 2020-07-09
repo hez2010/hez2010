@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- 🏫 Undergraduate bachelor of Intelligent System and Software Engineering, 2018-2022. 
+- 👯 Microsoft Student Partner. 
+- 💬 Can speak Chinese, English and Japanese. 
+- 🌱 Currently learning Rust, CLR, System, Compiler and Codegen. 
+- ⚡ Want to write a Game Engine and do Game Development in the future.
+
 <!--
 **hez2010/hez2010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
