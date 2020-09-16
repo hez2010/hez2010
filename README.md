@@ -6,4 +6,4 @@
 - 👯 Microsoft Student Partner. 
 - 💬 Can speak Chinese, English and Japanese. 
 - 🌱 Currently learning Rust, CLR, System, Compiler and Codegen. 
-- ⚡ Want to write a Game Engine and do Game Development in the future.
+- ⚡ Want to write a runtime and a game engine.
