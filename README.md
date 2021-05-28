@@ -3,7 +3,7 @@
 
 ### Experience & Skills
 
-- 🏫 Undergraduate bachelor of Intelligent System and Software Engineering, 2018-2022. 
+- 🏫 Undergraduate bachelor of Software Engineering, 2018-2022. 
 - 👯 Microsoft Student Partner. 
 - 💬 Can speak Chinese, English and Japanese. 
 - 🌱 Currently learning Rust, CLR, System, Compiler and Codegen. 
