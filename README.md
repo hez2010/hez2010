@@ -7,5 +7,5 @@
 - 🏫 Undergraduate bachelor of Software Engineering, 2018-2022. 
 - 👯 Microsoft Student Partner. 
 - 💬 Can speak Chinese, English and Japanese. 
-- 🌱 Currently learning Rust, CLR, System, Compiler and Codegen. 
+- 🌱 Currently learning CoreCLR, Computer Graphics and Compilers. 
 - ⚡ Want to write a runtime and a game engine.
