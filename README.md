@@ -4,7 +4,7 @@
 
 ### Experience & Skills
 
-- 🏫 Undergraduate bachelor of Software Engineering, 2018-2022. 
+- 🏫 Undergraduate master of Computer Science, 2023-2025. 
 - 👯 Microsoft Student Partner. 
 - 💬 Can speak Chinese, English and Japanese. 
 - 🌱 Currently learning CoreCLR, Computer Graphics and Compilers. 
