@@ -5,7 +5,7 @@
 ### Experience & Skills
 
 - 🏫 Master of Computer Science, 2023-2025. 
-- 👯 Microsoft Student Partner. 
+- 👯 Microsoft MVP for .NET. 
 - 💬 Can speak Chinese, English and Japanese. 
 - 🌱 Currently learning CoreCLR, Computer Graphics and Compilers. 
 - ⚡ Want to write a runtime and a game engine.
