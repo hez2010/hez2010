@@ -5,7 +5,7 @@
 ### Experience & Skills
 
 - 🏫 Master of Computer Science, 2023-2025. 
-- 👯 Microsoft MVP for .NET. 
+- 👯 Microsoft MVP for .NET, .NET CoreCLR community contributor. 
 - 💬 Can speak Chinese, English and Japanese. 
-- 🌱 Currently learning CoreCLR, Computer Graphics and Compilers. 
+- 🌱 Currently learning Computer Graphics and Compilers.
 - ⚡ Want to write a runtime and a game engine.
