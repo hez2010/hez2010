@@ -4,8 +4,10 @@
 
 ### Experience & Skills
 
-- 🏫 Master of Computer Science, 2023-2025. 
+- 🏢 Game Developer.
+- 🗾 Live in Japan.
+- 🏫 Master of Computer Science. 
 - 👯 Microsoft MVP for .NET, .NET CoreCLR community contributor. 
-- 💬 Can speak Chinese, English and Japanese. 
+- 💬 Can speak Japanese, English and Chinese. 
 - 🌱 Currently learning Computer Graphics and Compilers.
 - ⚡ Want to write a runtime and a game engine.
